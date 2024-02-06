@@ -1,2 +1,3 @@
-<img source="logo.png" width="1000" height="200">
+![Yappanese](https://github.com/XCATsus/Yappanese/blob/main/logo.png?raw=true)
+<br>
 Simple, easy, open-source language.
