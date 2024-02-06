@@ -1,3 +1,2 @@
 ![Yappanese](https://github.com/XCATsus/Yappanese/blob/main/logo.png?raw=true)
-<br>
-Simple, easy, open-source language.
+Yappanese is a simple language (primarily) based on English, Polish and Spanish. Its purpose is to simplify words and make them easy to understand. One of major features of Yappanese is the ability to add new words and slangs to the official language. Unlike most languages, Yappanese is open-source and everyone can commit to it.
