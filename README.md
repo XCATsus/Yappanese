@@ -24,4 +24,4 @@ Yappanese is a simple language (primarily) based on English, Polish and Spanish.
 - Yappanese is based on other languages than Esperanto.
 
 ## How to commit?
-Add issue with suggestion, english translation and definition or dm me on discord if you can find me.
+Add issue with suggestion, english translation and definition or dm me on discord (xcawg).
